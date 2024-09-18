@@ -24,7 +24,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/vk-telegram-bot.git
+    git clone https://github.com/LewyWho/vk-telegram-bot.git
     cd vk-telegram-bot
     ```
 
@@ -59,7 +59,7 @@
 Для запуска бота выполните команду:
 
 ```bash
-python bot.py
+python main.py
 ```
 ## После запуска бот будет:
 
